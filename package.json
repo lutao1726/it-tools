@@ -7,7 +7,8 @@
   "author": "Corentin Th <corentin.thomasset74+it-tools@gmail.com> (https://corentin.tech)",
   "license": "GNU GPLv3",
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=20",
+    "pnpm": ">=10"
   }
   "repository": {
     "type": "git",
